@@ -23,7 +23,6 @@ using databases like MongoDB, Mysql, and Oracle.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Rank My Code](https://github.com/viveksantani1017/rank-my-code)  
   
@@ -37,11 +36,7 @@ using databases like MongoDB, Mysql, and Oracle.
 - ⚡ Fun fact: Yes I'm a developer and I'm not a night owl  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -99,11 +94,3 @@ using databases like MongoDB, Mysql, and Oracle.
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=viveksantani1017&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
