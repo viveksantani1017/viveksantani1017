@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I'm a passionate full-stack developer with little experience in developing
+A passionate full-stack developer with little experience in developing
 scalable websites/web applications using a range of front-end skills like
 HTML, CSS, JavaScript, React JS, backend skills like Node.js, J2EE, ASP .NET EF Core and
 using databases like MongoDB, Mysql, and Oracle.
