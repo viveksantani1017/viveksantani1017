@@ -24,8 +24,7 @@ using databases like MongoDB, Mysql, and Oracle.
 
 ## Rapidfire  
 
-- 🔭 I’m currently working on [Rank My Code](https://github.com/viveksantani1017/rank-my-code)  
-  
+- 🔭 I’m currently working on Brokerhood (A Freelance Project) & [ShadCn-TSX-Sidebar-Template](https://github.com/viveksantani1017/ShadCn-TSX-Sidebar-Template)  
 
 - 🌱 I’m currently learning NextJs and Typescript  
   
